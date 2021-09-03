@@ -13,6 +13,7 @@
 		3DC4920426E19125001C348B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DC4920226E19125001C348B /* Main.storyboard */; };
 		3DC4920626E19126001C348B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DC4920526E19126001C348B /* Assets.xcassets */; };
 		3DC4920926E19126001C348B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DC4920726E19126001C348B /* LaunchScreen.storyboard */; };
+		3DC4921126E1A1E8001C348B /* DancingScript-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DC4921026E1A1E7001C348B /* DancingScript-VariableFont_wght.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3DC4920526E19126001C348B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DC4920826E19126001C348B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DC4920A26E19126001C348B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DC4921026E1A1E7001C348B /* DancingScript-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DancingScript-VariableFont_wght.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		3DC491FB26E19125001C348B /* Recursos */ = {
 			isa = PBXGroup;
 			children = (
+				3DC4921026E1A1E7001C348B /* DancingScript-VariableFont_wght.ttf */,
 				3DC491FC26E19125001C348B /* AppDelegate.swift */,
 				3DC491FE26E19125001C348B /* SceneDelegate.swift */,
 				3DC4920026E19125001C348B /* ViewController.swift */,
@@ -128,6 +131,7 @@
 				3DC4920926E19126001C348B /* LaunchScreen.storyboard in Resources */,
 				3DC4920626E19126001C348B /* Assets.xcassets in Resources */,
 				3DC4920426E19125001C348B /* Main.storyboard in Resources */,
+				3DC4921126E1A1E8001C348B /* DancingScript-VariableFont_wght.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
